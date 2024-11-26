@@ -1,0 +1,9 @@
+[snowflake_connection]
+
+user = ""
+account = ""
+password = ""
+role = ""
+warehouse = ""
+database = ""
+schema = ""
