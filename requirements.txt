@@ -1,0 +1,5 @@
+fastapi~=0.115.5
+uvicorn
+snowflake-connector-python
+pydantic~=2.9.2
+tomli~=2.1.0
